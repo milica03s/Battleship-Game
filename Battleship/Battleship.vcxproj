@@ -19,7 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="IO.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Move.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Move.h" />
+    <ClInclude Include="IO.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{C863DD0F-F830-4C39-8453-320CDA9A771F}</ProjectGuid>

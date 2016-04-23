@@ -3,6 +3,7 @@
 using namespace std;
 
 void main() {
-	//this is changed
-	//ovo je micin komit prvi drugiiiiii
+	//1. ispitati da li je prvi potez i ispisati raspored
+	//2.ako nije prvi potez, ucitati tablu protivnika i gadjati
+
 }
