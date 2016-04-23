@@ -18,6 +18,9 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{C863DD0F-F830-4C39-8453-320CDA9A771F}</ProjectGuid>
     <RootNamespace>Battleship</RootNamespace>
