@@ -6,4 +6,6 @@ void nextMove(int,int);
 
 void setStartPositions(char[][10]);
 
+void setHardcodedStartPositions();
+
 
